@@ -15,3 +15,7 @@ node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22
 # Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує.
 
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
+
+# Посилання на скріншот.
+
+https://ibb.co/ft1gMkB
